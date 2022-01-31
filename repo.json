@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "gotoanything",
+        "Description": "Go to anything",
+        "Website": "https://github.com/julien00859/micro-go-to-anything",
+        "Tags": ["fzf", "rg", "ctags"],
+        "Versions": [
+            {
+                "Version": "0.0.1",
+                "Url": "",
+                "Require": {
+                    "micro": ">=2.0.3"
+                }
+            }
+        ]
+    }
+]
